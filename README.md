@@ -1,5 +1,5 @@
 #  Hi there 👋 I am Zakaria Boulbaroud
-const aboutMe = Full Stack Developer and Graphic Designer who builds web applications and creative graphics that work well and look good.
+Full Stack Developer and Graphic Designer who builds web applications and creative graphics that work well and look good.
 
 
 
