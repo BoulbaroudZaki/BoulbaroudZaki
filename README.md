@@ -1,5 +1,25 @@
-# 💫 About Me:
-const aboutMe = {<br>    name: "Boulbaroud Zakaria",<br>    location: "Khouribga, Morocco 🇲🇦",<br>    role: "Full Stack Developer and Graphic Designer",<br>    languages: ["Arabic (native)", "French (fluent)", "English (fluent)"],<br>    techStack: {<br>        frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],<br>        backend:  ["Laravel", "PHP", "MySQL", "MongoDB"],<br>        design:   ["Adobe Photoshop", "Adobe Illustrator", "Canva", "Figma"],<br>    },<br>};
+#  Hi there 👋 I am Zakaria Boulbaroud
+const aboutMe = Full Stack Developer and Graphic Designer who builds web applications and creative graphics that work well and look good.
+
+
+
+On the technical side, I work with Laravel, Next.js, React.js and MySQL. I build the whole product: interfaces, REST APIs and databases. On the creative side, I design in Photoshop and Illustrator, so I can take an idea from a first sketch to a working, polished graphics.
+
+
+
+Beyond code
+
+I’ve managed social media and created visual content for Rajaa Club Khouribga. I also launched ZOS Print, my own project selling printed clothing online. These experiences taught me how products reach real users, not just how to build them.
+
+
+
+What drives me
+
+I enjoy solving problems, writing maintainable code and improving performance, and design creative graphics. I like to collaborate, learn and try new ideas.
+
+
+
+I’m open to full stack and graphic design opportunities. Feel free to message me.;
 
 
 ## 🌐 Socials:
