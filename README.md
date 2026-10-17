@@ -2,15 +2,12 @@
 Full Stack Developer and Graphic Designer who builds web applications and creative graphics that work well and look good.
 
 
-
 On the technical side, I work with Laravel, Next.js, React.js and MySQL. I build the whole product: interfaces, REST APIs and databases. On the creative side, I design in Photoshop and Illustrator, so I can take an idea from a first sketch to a working, polished graphics.
-
 
 
 Beyond code
 
 I’ve managed social media and created visual content for Rajaa Club Khouribga. I also launched ZOS Print, my own project selling printed clothing online. These experiences taught me how products reach real users, not just how to build them.
-
 
 
 What drives me
@@ -19,7 +16,7 @@ I enjoy solving problems, writing maintainable code and improving performance, a
 
 
 
-I’m open to full stack and graphic design opportunities. Feel free to message me.;
+I’m open to full stack and graphic design opportunities. Feel free to message me.
 
 
 ## 🌐 Socials:
